@@ -34,4 +34,4 @@ Individual product repositories live elsewhere in the organisation. Look there f
 
 ## Get in Touch
 
-Questions, partnership enquiries, or just want to talk shop-floor software? Open a [discussion](../../discussions) in this repository or reach out through the contact details on [our website](https://sampolabs.com).
+Questions, partnership enquiries, or just want to talk shop-floor software? Open a [discussion](../../discussions) in this repository or reach out through the contact details on [our website](https://sampo-labs.com).

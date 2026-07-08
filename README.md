@@ -22,16 +22,6 @@ Our work spans the full vertical:
 - **Boring reliability** — manufacturing uptime is non-negotiable, so we favour proven patterns and explicit error handling over clever abstractions.
 - **Iterative delivery** — small shippable increments that operators can start using before the full vision is complete.
 
-## This Repository
-
-This is the `.github` repository for the Sampo Labs GitHub organisation. It holds organisation-wide defaults including:
-
-- Community health files (Code of Conduct, Contributing guidelines, Security policy)
-- Default issue and pull-request templates shared across every Sampo Labs repo
-- Organisation-level GitHub Actions workflow templates
-
-Individual product repositories live elsewhere in the organisation. Look there for build instructions, architecture notes, and project-specific documentation.
-
 ## Get in Touch
 
 Questions, partnership enquiries, or just want to talk shop-floor software? Open a [discussion](../../discussions) in this repository or reach out through the contact details on [our website](https://sampo-labs.com).
